@@ -12,6 +12,7 @@ The Model has 23K trainable Parameters and has training accuracy of 70.3% and te
 * Update File Locations whereever necessary.
 * Wapp is the Application Notebook
 * NewNET The Model Training Notebook.
-* Data contain the required Nmpuy array Image data nd labels, Best and Final Model, Training History  
+* Data contain the required Nmpuy array Image data nd labels,
+* Model contains Best and Final Model, Training History  
 
 
