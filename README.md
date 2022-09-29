@@ -15,4 +15,5 @@ The Model has 23K trainable Parameters and has training accuracy of 70.3% and te
 * Data contain the required Nmpuy array Image data nd labels,
 * Model contains Best and Final Model, Training History  
 
-
+![image](https://github.com/christojo7n/WApp/blob/main/Picture2.png)
+![image](https://github.com/christojo7n/WApp/blob/main/Picture3.png)
